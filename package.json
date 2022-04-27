@@ -1,0 +1,30 @@
+{
+  "name": "vies-vat",
+  "version": "1.2.1",
+  "description": "A EU VAT Number validation via European Union VIES API including company information",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitinix/vies-vat.git"
+  },
+  "keywords": [
+    "VIES",
+    "VAT",
+    "VATEU",
+    "EU",
+    "NPM",
+    "Number",
+    "Tax",
+    "Validation",
+    "node.js"
+  ],
+  "author": "Peter Bradbury ( bitinix )",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitinix/vies-vat/issues"
+  },
+  "homepage": "https://github.com/bitinix/vies-vat#readme"
+}
