@@ -1,6 +1,6 @@
 {
   "name": "vies-vat",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "A EU VAT Number validation via European Union VIES API including company information",
   "main": "lib/index.js",
   "scripts": {
