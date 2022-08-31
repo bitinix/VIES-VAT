@@ -122,14 +122,16 @@ Add the following entry to your host file:-<br />
 <br />
 ## Change Log
 
+### 1.2.2
+Apply EU Updates<br />
+
 ### 1.2.1
 Make for public use on GITHUB<br />
-  
     
 ## License
 The MIT License (MIT)
 
-Copyright (c) 2021 bitinix@gmail.com<br />
+Copyright (c) 2022 bitinix@gmail.com<br />
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
