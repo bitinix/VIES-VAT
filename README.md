@@ -19,7 +19,7 @@ Contact the developer at bitinix@gmail.com
 
 ## Get started
 ```bash
-npm install --save VIES-VAT
+npm install --save vies-vat
 ```
 
 #### Valid CountryCodes
